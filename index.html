@@ -794,7 +794,7 @@ function renderGame() {
     }
 
     html += `<button class="btn-restart" onclick="restartGame()">Restart</button>`;
-    html += `<a href="https://worldcup-0.com" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div><div class="promo-sub">the world cup version</div></a>`;
+    html += `<a href="https://worldcup-0.com" target="_blank" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div></a>`;
   }
 
   if (g.scores.length > 0) {
@@ -834,7 +834,7 @@ function renderGame() {
       ${isNewRecord ? '<p style="color:var(--gold);font-weight:700;margin-top:8px">New all-time record!</p>' : ''}
       <div class="all-time-record">All-time best: <span class="record-value">${record}</span></div>
       <button class="btn-primary" onclick="startGame()">Play Again</button>
-      <a href="https://worldcup-0.com" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div><div class="promo-sub">the world cup version</div></a>
+      <a href="https://worldcup-0.com" target="_blank" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div></a>
     </div>`;
   }
 
