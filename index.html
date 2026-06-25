@@ -339,6 +339,12 @@
   .footer { text-align: center; padding: 20px 0; color: var(--muted); font-size: 0.75rem; }
   .footer a { color: var(--accent); text-decoration: none; }
 
+  .promo-box { display: block; width: 100%; max-width: 320px; margin: 16px auto 0; padding: 14px; border-radius: 14px; background: var(--surface); box-shadow: 0 2px 8px rgba(0,0,0,0.06); text-align: center; text-decoration: none; transition: all 0.15s; }
+  .promo-box:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+  .promo-box .promo-title { font-size: 0.95rem; font-weight: 700; color: var(--text); }
+  .promo-box .promo-title span { color: #15803d; }
+  .promo-box .promo-sub { font-size: 0.7rem; color: var(--muted); margin-top: 2px; }
+
   .waiting-label {
     text-align: center;
     padding: 24px;
@@ -788,6 +794,7 @@ function renderGame() {
     }
 
     html += `<button class="btn-restart" onclick="restartGame()">Restart</button>`;
+    html += `<a href="https://worldcup-0.com" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div><div class="promo-sub">the world cup version</div></a>`;
   }
 
   if (g.scores.length > 0) {
@@ -827,6 +834,7 @@ function renderGame() {
       ${isNewRecord ? '<p style="color:var(--gold);font-weight:700;margin-top:8px">New all-time record!</p>' : ''}
       <div class="all-time-record">All-time best: <span class="record-value">${record}</span></div>
       <button class="btn-primary" onclick="startGame()">Play Again</button>
+      <a href="https://worldcup-0.com" class="promo-box"><div class="promo-title">Try <span>WorldCup-0</span></div><div class="promo-sub">the world cup version</div></a>
     </div>`;
   }
 
