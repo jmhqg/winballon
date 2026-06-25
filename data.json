@@ -1,0 +1,4711 @@
+{
+  "lastUpdated": "2025-09-19",
+  "season": "FC 26",
+  "playerCount": 196,
+  "players": [
+    {
+      "name": "K. Mbapp\u00e9",
+      "fullName": "Kylian Mbapp\u00e9 Lottin",
+      "overall": 91,
+      "position": "ST",
+      "club": "Real Madrid",
+      "nationality": "France",
+      "stats": {
+        "pace": 97.0,
+        "shooting": 90.0,
+        "passing": 81.0,
+        "dribbling": 92.0,
+        "defending": 37.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": 1,
+        "shooting": 3,
+        "passing": 87,
+        "dribbling": 2,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Salah",
+      "fullName": "Mohamed Salah Hamed Ghaly\u0645\u062d\u0645\u062f \u0635\u0644\u0627\u062d",
+      "overall": 91,
+      "position": "RM",
+      "club": "Liverpool",
+      "nationality": "Egypt",
+      "stats": {
+        "pace": 89.0,
+        "shooting": 88.0,
+        "passing": 86.0,
+        "dribbling": 90.0,
+        "defending": 45.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 6,
+        "passing": 12,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Bellingham",
+      "fullName": "Jude Victor William Bellingham",
+      "overall": 90,
+      "position": "CAM",
+      "club": "Real Madrid",
+      "nationality": "England",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 86.0,
+        "passing": 83.0,
+        "dribbling": 90.0,
+        "defending": 78.0,
+        "physical": 85.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 12,
+        "passing": 49,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": 41
+      }
+    },
+    {
+      "name": "Rodri",
+      "fullName": "Rodrigo Hern\u00e1ndez Cascante",
+      "overall": 90,
+      "position": "CDM",
+      "club": "Manchester City",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 65.0,
+        "shooting": 80.0,
+        "passing": 86.0,
+        "dribbling": 84.0,
+        "defending": 86.0,
+        "physical": 85.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 12,
+        "dribbling": 79,
+        "defending": 8,
+        "physical": 41
+      }
+    },
+    {
+      "name": "E. Haaland",
+      "fullName": "Erling Braut H\u00e5land",
+      "overall": 90,
+      "position": "ST",
+      "club": "Manchester City",
+      "nationality": "Norway",
+      "stats": {
+        "pace": 86.0,
+        "shooting": 91.0,
+        "passing": 70.0,
+        "dribbling": 80.0,
+        "defending": 45.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 2,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "V. van Dijk",
+      "fullName": "Virgil van Dijk",
+      "overall": 90,
+      "position": "CB",
+      "club": "Liverpool",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 73.0,
+        "shooting": 60.0,
+        "passing": 72.0,
+        "dribbling": 72.0,
+        "defending": 90.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 1,
+        "physical": 11
+      }
+    },
+    {
+      "name": "O. Demb\u00e9l\u00e9",
+      "fullName": "Masour Ousmane Demb\u00e9l\u00e9",
+      "overall": 90,
+      "position": "ST",
+      "club": "Paris Saint-Germain",
+      "nationality": "France",
+      "stats": {
+        "pace": 91.0,
+        "shooting": 88.0,
+        "passing": 83.0,
+        "dribbling": 93.0,
+        "defending": 50.0,
+        "physical": 69.0
+      },
+      "rankings": {
+        "pace": 65,
+        "shooting": 6,
+        "passing": 49,
+        "dribbling": 1,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Vini Jr.",
+      "fullName": "Vinicius Jos\u00e9 Paix\u00e3o de Oliveira Junior",
+      "overall": 89,
+      "position": "LW",
+      "club": "Real Madrid",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 95.0,
+        "shooting": 84.0,
+        "passing": 81.0,
+        "dribbling": 91.0,
+        "defending": 29.0,
+        "physical": 69.0
+      },
+      "rankings": {
+        "pace": 4,
+        "shooting": 20,
+        "passing": 87,
+        "dribbling": 3,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Vitinha",
+      "fullName": "V\u00edtor Machado Ferreira",
+      "overall": 89,
+      "position": "CM",
+      "club": "Paris Saint-Germain",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 80.0,
+        "passing": 86.0,
+        "dribbling": 90.0,
+        "defending": 75.0,
+        "physical": 70.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 12,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Lamine Yamal",
+      "fullName": "Lamine Yamal Nasraoui Ebana\u0644\u0627\u0645\u064a\u0646 \u064a\u0627\u0645\u0627\u0644 \u0646\u0635\u0631\u0627\u0648\u064a \u0625\u0628\u0627\u0646\u0627",
+      "overall": 89,
+      "position": "RM",
+      "club": "FC Barcelona",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 85.0,
+        "shooting": 81.0,
+        "passing": 86.0,
+        "dribbling": 90.0,
+        "defending": 23.0,
+        "physical": 53.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 83,
+        "passing": 12,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "H. Kane",
+      "fullName": "Harry Edward Kane",
+      "overall": 89,
+      "position": "ST",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "England",
+      "stats": {
+        "pace": 64.0,
+        "shooting": 92.0,
+        "passing": 83.0,
+        "dribbling": 82.0,
+        "defending": 48.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 1,
+        "passing": 49,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Wirtz",
+      "fullName": "Florian Richard Wirtz",
+      "overall": 89,
+      "position": "CAM",
+      "club": "Liverpool",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 82.0,
+        "passing": 88.0,
+        "dribbling": 90.0,
+        "defending": 54.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": 5,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Valverde",
+      "fullName": "Federico Santiago Valverde Dipetta",
+      "overall": 89,
+      "position": "CM",
+      "club": "Real Madrid",
+      "nationality": "Uruguay",
+      "stats": {
+        "pace": 88.0,
+        "shooting": 84.0,
+        "passing": 84.0,
+        "dribbling": 84.0,
+        "defending": 83.0,
+        "physical": 85.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": 34,
+        "dribbling": 79,
+        "defending": 42,
+        "physical": 41
+      }
+    },
+    {
+      "name": "Pedri",
+      "fullName": "Pedro Gonz\u00e1lez L\u00f3pez",
+      "overall": 89,
+      "position": "CM",
+      "club": "FC Barcelona",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 73.0,
+        "passing": 85.0,
+        "dribbling": 91.0,
+        "defending": 78.0,
+        "physical": 77.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 3,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Kimmich",
+      "fullName": "Joshua Walter Kimmich",
+      "overall": 89,
+      "position": "CDM",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 74.0,
+        "passing": 89.0,
+        "dribbling": 84.0,
+        "defending": 83.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 2,
+        "dribbling": 79,
+        "defending": 42,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Raphinha",
+      "fullName": "Raphael Dias Belloli",
+      "overall": 89,
+      "position": "LM",
+      "club": "FC Barcelona",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 91.0,
+        "shooting": 84.0,
+        "passing": 85.0,
+        "dribbling": 87.0,
+        "defending": 53.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": 65,
+        "shooting": 20,
+        "passing": 18,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Hakimi",
+      "fullName": "Achraf Hakimi Mouh\u0623\u0634\u0631\u0641 \u062d\u0643\u064a\u0645\u064a",
+      "overall": 89,
+      "position": "RB",
+      "club": "Paris Saint-Germain",
+      "nationality": "Morocco",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 79.0,
+        "passing": 82.0,
+        "dribbling": 83.0,
+        "defending": 82.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": 67,
+        "dribbling": "100+",
+        "defending": 61,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Isak",
+      "fullName": "Alexander Isak",
+      "overall": 88,
+      "position": "ST",
+      "club": "Liverpool",
+      "nationality": "Sweden",
+      "stats": {
+        "pace": 83.0,
+        "shooting": 89.0,
+        "passing": 73.0,
+        "dribbling": 85.0,
+        "defending": 39.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 4,
+        "passing": "100+",
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Musiala",
+      "fullName": "Jamal Musiala",
+      "overall": 88,
+      "position": "CAM",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 82.0,
+        "passing": 80.0,
+        "dribbling": 90.0,
+        "defending": 66.0,
+        "physical": 65.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": "100+",
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Gabriel",
+      "fullName": "Gabriel dos Santos Magalh\u00e3es",
+      "overall": 88,
+      "position": "CB",
+      "club": "Arsenal",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 64.0,
+        "shooting": 44.0,
+        "passing": 64.0,
+        "dribbling": 65.0,
+        "defending": 88.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 3,
+        "physical": 72
+      }
+    },
+    {
+      "name": "B. Saka",
+      "fullName": "Bukayo Saka",
+      "overall": 88,
+      "position": "RW",
+      "club": "Arsenal",
+      "nationality": "England",
+      "stats": {
+        "pace": 84.0,
+        "shooting": 82.0,
+        "passing": 85.0,
+        "dribbling": 88.0,
+        "defending": 60.0,
+        "physical": 73.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": 18,
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "L. Mart\u00ednez",
+      "fullName": "Lautaro Javier Mart\u00ednez",
+      "overall": 88,
+      "position": "ST",
+      "club": "Inter",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 81.0,
+        "shooting": 88.0,
+        "passing": 75.0,
+        "dribbling": 84.0,
+        "defending": 51.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 6,
+        "passing": "100+",
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R. Lewandowski",
+      "fullName": "Robert Lewandowski",
+      "overall": 88,
+      "position": "ST",
+      "club": "FC Barcelona",
+      "nationality": "Poland",
+      "stats": {
+        "pace": 74.0,
+        "shooting": 89.0,
+        "passing": 79.0,
+        "dribbling": 85.0,
+        "defending": 44.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 4,
+        "passing": "100+",
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": 72
+      }
+    },
+    {
+      "name": "W. Saliba",
+      "fullName": "William Alain Andr\u00e9 Gabriel Saliba",
+      "overall": 87,
+      "position": "CB",
+      "club": "Arsenal",
+      "nationality": "France",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 39.0,
+        "passing": 68.0,
+        "dribbling": 72.0,
+        "defending": 87.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 5,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "V. Gy\u00f6keres",
+      "fullName": "Viktor Einar Gy\u00f6keres",
+      "overall": 87,
+      "position": "ST",
+      "club": "Arsenal",
+      "nationality": "Sweden",
+      "stats": {
+        "pace": 90.0,
+        "shooting": 86.0,
+        "passing": 73.0,
+        "dribbling": 81.0,
+        "defending": 36.0,
+        "physical": 91.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 12,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 1
+      }
+    },
+    {
+      "name": "K. De Bruyne",
+      "fullName": "Kevin De Bruyne",
+      "overall": 87,
+      "position": "CM",
+      "club": "Napoli",
+      "nationality": "Belgium",
+      "stats": {
+        "pace": 66.0,
+        "shooting": 83.0,
+        "passing": 92.0,
+        "dribbling": 84.0,
+        "defending": 65.0,
+        "physical": 72.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": 1,
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Caicedo",
+      "fullName": "Mois\u00e9s Isaac Caicedo Corozo",
+      "overall": 87,
+      "position": "CDM",
+      "club": "Chelsea",
+      "nationality": "Ecuador",
+      "stats": {
+        "pace": 71.0,
+        "shooting": 64.0,
+        "passing": 78.0,
+        "dribbling": 81.0,
+        "defending": 84.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Rice",
+      "fullName": "Declan Rice",
+      "overall": 87,
+      "position": "CDM",
+      "club": "Arsenal",
+      "nationality": "England",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 73.0,
+        "passing": 84.0,
+        "dribbling": 80.0,
+        "defending": 83.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": "100+",
+        "defending": 42,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "C. Palmer",
+      "fullName": "Cole Jermaine Palmer",
+      "overall": 87,
+      "position": "CAM",
+      "club": "Chelsea",
+      "nationality": "England",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 83.0,
+        "passing": 87.0,
+        "dribbling": 87.0,
+        "defending": 50.0,
+        "physical": 65.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": 7,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Kound\u00e9",
+      "fullName": "Jules Olivier Kound\u00e9",
+      "overall": 87,
+      "position": "RB",
+      "club": "FC Barcelona",
+      "nationality": "France",
+      "stats": {
+        "pace": 84.0,
+        "shooting": 47.0,
+        "passing": 74.0,
+        "dribbling": 79.0,
+        "defending": 86.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": 72
+      }
+    },
+    {
+      "name": "K. Kvaratskhelia",
+      "fullName": "Khvicha Kvaratskhelia\u10ee\u10d5\u10d8\u10e9\u10d0 \u10d9\u10d5\u10d0\u10e0\u10d0\u10ea\u10ee\u10d4\u10da\u10d8\u10d0",
+      "overall": 87,
+      "position": "LW",
+      "club": "Paris Saint-Germain",
+      "nationality": "Georgia",
+      "stats": {
+        "pace": 86.0,
+        "shooting": 80.0,
+        "passing": 83.0,
+        "dribbling": 88.0,
+        "defending": 58.0,
+        "physical": 78.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 49,
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Mac Allister",
+      "fullName": "Alexis Mac Allister",
+      "overall": 87,
+      "position": "CM",
+      "club": "Liverpool",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 66.0,
+        "shooting": 82.0,
+        "passing": 85.0,
+        "dribbling": 85.0,
+        "defending": 78.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": 18,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. Guirassy",
+      "fullName": "Serhou Yadaly Guirassy",
+      "overall": 87,
+      "position": "ST",
+      "club": "Borussia Dortmund",
+      "nationality": "Guinea",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 88.0,
+        "passing": 76.0,
+        "dribbling": 83.0,
+        "defending": 45.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 6,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. \u00d8degaard",
+      "fullName": "Martin \u00d8degaard",
+      "overall": 87,
+      "position": "CM",
+      "club": "Arsenal",
+      "nationality": "Norway",
+      "stats": {
+        "pace": 68.0,
+        "shooting": 79.0,
+        "passing": 88.0,
+        "dribbling": 87.0,
+        "defending": 67.0,
+        "physical": 65.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 5,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Barella",
+      "fullName": "Nicol\u00f2 Barella",
+      "overall": 87,
+      "position": "CM",
+      "club": "Inter",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 78.0,
+        "passing": 84.0,
+        "dribbling": 86.0,
+        "defending": 81.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": 40,
+        "defending": 88,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Tah",
+      "fullName": "Jonathan Glao Tah",
+      "overall": 87,
+      "position": "CB",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 63.0,
+        "shooting": 38.0,
+        "passing": 60.0,
+        "dribbling": 63.0,
+        "defending": 87.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 5,
+        "physical": 20
+      }
+    },
+    {
+      "name": "Marquinhos",
+      "fullName": "Marcos Ao\u00e1s Corr\u00eaa",
+      "overall": 87,
+      "position": "CB",
+      "club": "Paris Saint-Germain",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 56.0,
+        "passing": 75.0,
+        "dribbling": 74.0,
+        "defending": 89.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 2,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Bastoni",
+      "fullName": "Alessandro Bastoni",
+      "overall": 87,
+      "position": "CB",
+      "club": "Inter",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 74.0,
+        "shooting": 46.0,
+        "passing": 75.0,
+        "dribbling": 76.0,
+        "defending": 88.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 3,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "fullName": "Bruno Miguel Borges Fernandes",
+      "overall": 87,
+      "position": "CAM",
+      "club": "Manchester United",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 67.0,
+        "shooting": 83.0,
+        "passing": 89.0,
+        "dribbling": 83.0,
+        "defending": 65.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": 2,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Alvarez",
+      "fullName": "Juli\u00e1n \u00c1lvarez",
+      "overall": 87,
+      "position": "ST",
+      "club": "Atl\u00e9tico Madrid",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 85.0,
+        "shooting": 87.0,
+        "passing": 81.0,
+        "dribbling": 87.0,
+        "defending": 57.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 11,
+        "passing": 87,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. de Jong",
+      "fullName": "Frenkie de Jong",
+      "overall": 87,
+      "position": "CM",
+      "club": "FC Barcelona",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 71.0,
+        "passing": 85.0,
+        "dribbling": 87.0,
+        "defending": 78.0,
+        "physical": 77.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "V. Osimhen",
+      "fullName": "Victor James Osimhen",
+      "overall": 87,
+      "position": "ST",
+      "club": "Galatasaray SK",
+      "nationality": "Nigeria",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 84.0,
+        "passing": 65.0,
+        "dribbling": 81.0,
+        "defending": 42.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 72
+      }
+    },
+    {
+      "name": "Bruno Guimar\u00e3es",
+      "fullName": "Bruno Guimar\u00e3es Rodrigues Moura",
+      "overall": 86,
+      "position": "CM",
+      "club": "Newcastle United",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 66.0,
+        "shooting": 75.0,
+        "passing": 84.0,
+        "dribbling": 84.0,
+        "defending": 79.0,
+        "physical": 81.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Nuno Mendes",
+      "fullName": "Nuno Alexandre Tavares Mendes",
+      "overall": 86,
+      "position": "LB",
+      "club": "Paris Saint-Germain",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 95.0,
+        "shooting": 65.0,
+        "passing": 76.0,
+        "dribbling": 82.0,
+        "defending": 80.0,
+        "physical": 77.0
+      },
+      "rankings": {
+        "pace": 4,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Nico Williams",
+      "fullName": "Nicholas Williams Arthuer",
+      "overall": 86,
+      "position": "LM",
+      "club": "Athletic Club",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 76.0,
+        "passing": 80.0,
+        "dribbling": 87.0,
+        "defending": 36.0,
+        "physical": 66.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R\u00faben Dias",
+      "fullName": "R\u00faben dos Santos Gato Alves Dias",
+      "overall": 86,
+      "position": "CB",
+      "club": "Manchester City",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 59.0,
+        "shooting": 39.0,
+        "passing": 69.0,
+        "dribbling": 69.0,
+        "defending": 86.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": 72
+      }
+    },
+    {
+      "name": "L. Messi",
+      "fullName": "Lionel Andr\u00e9s Messi Cuccitini",
+      "overall": 86,
+      "position": "RW",
+      "club": "Inter Miami",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 85.0,
+        "passing": 85.0,
+        "dribbling": 90.0,
+        "defending": 33.0,
+        "physical": 64.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 16,
+        "passing": 18,
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "P. Dybala",
+      "fullName": "Paulo Bruno Exequiel Dybala",
+      "overall": 86,
+      "position": "CAM",
+      "club": "Roma",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 85.0,
+        "passing": 84.0,
+        "dribbling": 87.0,
+        "defending": 41.0,
+        "physical": 64.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 16,
+        "passing": 34,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Olise",
+      "fullName": "Michael Akpovie Olise",
+      "overall": 86,
+      "position": "RM",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "France",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 80.0,
+        "passing": 84.0,
+        "dribbling": 87.0,
+        "defending": 50.0,
+        "physical": 66.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "W. Pacho",
+      "fullName": "Willian Joel Pacho Tenorio",
+      "overall": 86,
+      "position": "CB",
+      "club": "Paris Saint-Germain",
+      "nationality": "Ecuador",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 34.0,
+        "passing": 62.0,
+        "dribbling": 62.0,
+        "defending": 86.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": 20
+      }
+    },
+    {
+      "name": "I. Konat\u00e9",
+      "fullName": "Ibrahima Konat\u00e9",
+      "overall": 86,
+      "position": "CB",
+      "club": "Liverpool",
+      "nationality": "France",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 34.0,
+        "passing": 63.0,
+        "dribbling": 69.0,
+        "defending": 86.0,
+        "physical": 85.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": 41
+      }
+    },
+    {
+      "name": "H. \u00c7alhano\u011flu",
+      "fullName": "Hakan \u00c7alhano\u011flu",
+      "overall": 86,
+      "position": "CDM",
+      "club": "Inter",
+      "nationality": "T\u00fcrkiye",
+      "stats": {
+        "pace": 71.0,
+        "shooting": 81.0,
+        "passing": 87.0,
+        "dribbling": 82.0,
+        "defending": 81.0,
+        "physical": 73.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 83,
+        "passing": 7,
+        "dribbling": "100+",
+        "defending": 88,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "T. Alexander-Arnold",
+      "fullName": "Trent John Alexander-Arnold",
+      "overall": 86,
+      "position": "RB",
+      "club": "Real Madrid",
+      "nationality": "England",
+      "stats": {
+        "pace": 76.0,
+        "shooting": 72.0,
+        "passing": 89.0,
+        "dribbling": 80.0,
+        "defending": 80.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 2,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. R\u00fcdiger",
+      "fullName": "Antonio R\u00fcdiger",
+      "overall": 86,
+      "position": "CB",
+      "club": "Real Madrid",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 79.0,
+        "shooting": 55.0,
+        "passing": 72.0,
+        "dribbling": 70.0,
+        "defending": 84.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": 20
+      }
+    },
+    {
+      "name": "H. Son",
+      "fullName": "Heung-min Son\uc190\ud765\ubbfc \u5b59\u5174\u615c",
+      "overall": 85,
+      "position": "LW",
+      "club": "Los Angeles FC",
+      "nationality": "Korea Republic",
+      "stats": {
+        "pace": 84.0,
+        "shooting": 84.0,
+        "passing": 81.0,
+        "dribbling": 83.0,
+        "defending": 42.0,
+        "physical": 73.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": 87,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Dani Olmo",
+      "fullName": "Daniel Olmo Carvajal",
+      "overall": 85,
+      "position": "CAM",
+      "club": "FC Barcelona",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 73.0,
+        "shooting": 79.0,
+        "passing": 83.0,
+        "dribbling": 87.0,
+        "defending": 50.0,
+        "physical": 56.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 49,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Bremer",
+      "fullName": "Gleison Bremer Silva Nascimento",
+      "overall": 85,
+      "position": "CB",
+      "club": "Juventus",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 50.0,
+        "passing": 58.0,
+        "dribbling": 66.0,
+        "defending": 86.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Y. Tielemans",
+      "fullName": "Youri Tielemans",
+      "overall": 85,
+      "position": "CM",
+      "club": "Aston Villa",
+      "nationality": "Belgium",
+      "stats": {
+        "pace": 54.0,
+        "shooting": 79.0,
+        "passing": 85.0,
+        "dribbling": 80.0,
+        "defending": 75.0,
+        "physical": 72.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Schlotterbeck",
+      "fullName": "Nico Cedric Schlotterbeck",
+      "overall": 85,
+      "position": "CB",
+      "club": "Borussia Dortmund",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 74.0,
+        "shooting": 60.0,
+        "passing": 75.0,
+        "dribbling": 73.0,
+        "defending": 85.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Dou\u00e9",
+      "fullName": "D\u00e9sir\u00e9 Dou\u00e9",
+      "overall": 85,
+      "position": "RW",
+      "club": "Paris Saint-Germain",
+      "nationality": "France",
+      "stats": {
+        "pace": 83.0,
+        "shooting": 80.0,
+        "passing": 77.0,
+        "dribbling": 90.0,
+        "defending": 55.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 5,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Thuram",
+      "fullName": "Marcus Lilian Thuram-Ulien",
+      "overall": 85,
+      "position": "ST",
+      "club": "Inter",
+      "nationality": "France",
+      "stats": {
+        "pace": 86.0,
+        "shooting": 83.0,
+        "passing": 76.0,
+        "dribbling": 82.0,
+        "defending": 50.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "L. D\u00edaz",
+      "fullName": "Luis Fernando D\u00edaz Marulanda",
+      "overall": 85,
+      "position": "LM",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Colombia",
+      "stats": {
+        "pace": 88.0,
+        "shooting": 81.0,
+        "passing": 76.0,
+        "dribbling": 87.0,
+        "defending": 45.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 83,
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Griezmann",
+      "fullName": "Antoine Griezmann",
+      "overall": 85,
+      "position": "ST",
+      "club": "Atl\u00e9tico Madrid",
+      "nationality": "France",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 86.0,
+        "passing": 85.0,
+        "dribbling": 88.0,
+        "defending": 59.0,
+        "physical": 73.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 12,
+        "passing": 18,
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "K. Benzema",
+      "fullName": "Karim Benzema\u0643\u0631\u064a\u0645 \u0628\u0646 \u0632\u064a\u0645\u0627",
+      "overall": 85,
+      "position": "ST",
+      "club": "Al Ittihad",
+      "nationality": "France",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 84.0,
+        "passing": 81.0,
+        "dribbling": 83.0,
+        "defending": 38.0,
+        "physical": 77.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": 87,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Upamecano",
+      "fullName": "Dayotchanculle Oswald Upamecano",
+      "overall": 85,
+      "position": "CB",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "France",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 45.0,
+        "passing": 64.0,
+        "dribbling": 73.0,
+        "defending": 84.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": 72
+      }
+    },
+    {
+      "name": "I\u00f1igo Mart\u00ednez",
+      "fullName": "\u00cd\u00f1igo Mart\u00ednez Berridi",
+      "overall": 85,
+      "position": "CB",
+      "club": "Al Nassr",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 71.0,
+        "shooting": 57.0,
+        "passing": 72.0,
+        "dribbling": 68.0,
+        "defending": 85.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "B. Mbeumo",
+      "fullName": "Bryan Tetsadong Marceau Mbeumo",
+      "overall": 85,
+      "position": "RW",
+      "club": "Manchester United",
+      "nationality": "Cameroon",
+      "stats": {
+        "pace": 88.0,
+        "shooting": 84.0,
+        "passing": 79.0,
+        "dribbling": 84.0,
+        "defending": 49.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+      "overall": 85,
+      "position": "ST",
+      "club": "Al Nassr",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 76.0,
+        "shooting": 88.0,
+        "passing": 76.0,
+        "dribbling": 80.0,
+        "defending": 34.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 6,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "P. Foden",
+      "fullName": "Philip Walter Foden",
+      "overall": 85,
+      "position": "RW",
+      "club": "Manchester City",
+      "nationality": "England",
+      "stats": {
+        "pace": 81.0,
+        "shooting": 81.0,
+        "passing": 82.0,
+        "dribbling": 89.0,
+        "defending": 57.0,
+        "physical": 57.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 83,
+        "passing": 67,
+        "dribbling": 13,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Dimarco",
+      "fullName": "Federico Dimarco",
+      "overall": 85,
+      "position": "LB",
+      "club": "Inter",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 78.0,
+        "passing": 84.0,
+        "dribbling": 82.0,
+        "defending": 79.0,
+        "physical": 77.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "G. Xhaka",
+      "fullName": "Granit Xhaka",
+      "overall": 85,
+      "position": "CDM",
+      "club": "Sunderland",
+      "nationality": "Switzerland",
+      "stats": {
+        "pace": 47.0,
+        "shooting": 75.0,
+        "passing": 85.0,
+        "dribbling": 74.0,
+        "defending": 78.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Rodrygo",
+      "fullName": "Rodrygo Silva de Goes",
+      "overall": 85,
+      "position": "RW",
+      "club": "Real Madrid",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 88.0,
+        "shooting": 80.0,
+        "passing": 79.0,
+        "dribbling": 87.0,
+        "defending": 31.0,
+        "physical": 64.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Kant\u00e9",
+      "fullName": "N'Golo Kant\u00e9",
+      "overall": 85,
+      "position": "CDM",
+      "club": "Al Ittihad",
+      "nationality": "France",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 65.0,
+        "passing": 73.0,
+        "dribbling": 80.0,
+        "defending": 85.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Grimaldo",
+      "fullName": "Alejandro Grimaldo Garc\u00eda",
+      "overall": 84,
+      "position": "LM",
+      "club": "Bayer 04 Leverkusen",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 73.0,
+        "passing": 87.0,
+        "dribbling": 85.0,
+        "defending": 74.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 7,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Isco",
+      "fullName": "Francisco Rom\u00e1n Alarc\u00f3n Su\u00e1rez",
+      "overall": 84,
+      "position": "CAM",
+      "club": "Real Betis Balompi\u00e9",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 66.0,
+        "shooting": 79.0,
+        "passing": 85.0,
+        "dribbling": 85.0,
+        "defending": 59.0,
+        "physical": 60.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "W. Orban",
+      "fullName": "Vilmos Tam\u00e1s Orb\u00e1n",
+      "overall": 84,
+      "position": "CB",
+      "club": "RB Leipzig",
+      "nationality": "Hungary",
+      "stats": {
+        "pace": 57.0,
+        "shooting": 40.0,
+        "passing": 56.0,
+        "dribbling": 56.0,
+        "defending": 86.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R. Mahrez",
+      "fullName": "Riyad Mahrez\u0631\u064a\u0627\u0636 \u0645\u062d\u0631\u0632",
+      "overall": 84,
+      "position": "RM",
+      "club": "Al Ahli SFC",
+      "nationality": "Algeria",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 80.0,
+        "passing": 81.0,
+        "dribbling": 88.0,
+        "defending": 39.0,
+        "physical": 63.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 87,
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Zaccagni",
+      "fullName": "Mattia Zaccagni",
+      "overall": 84,
+      "position": "LM",
+      "club": "Lazio",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 88.0,
+        "shooting": 78.0,
+        "passing": 77.0,
+        "dribbling": 87.0,
+        "defending": 57.0,
+        "physical": 66.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "O. Watkins",
+      "fullName": "Oliver George Arthur Watkins",
+      "overall": 84,
+      "position": "ST",
+      "club": "Aston Villa",
+      "nationality": "England",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 83.0,
+        "passing": 73.0,
+        "dribbling": 80.0,
+        "defending": 50.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. Milinkovi\u0107-Savi\u0107",
+      "fullName": "Sergej Milinkovi\u0107-Savi\u0107\u0421\u0435\u0440\u0433\u0435\u0458 \u041c\u0438\u043b\u0438\u043d\u043a\u043e\u0432\u0438\u045b-\u0421\u0430\u0432\u0438\u045b",
+      "overall": 84,
+      "position": "CM",
+      "club": "Al Hilal",
+      "nationality": "Serbia",
+      "stats": {
+        "pace": 62.0,
+        "shooting": 80.0,
+        "passing": 81.0,
+        "dribbling": 81.0,
+        "defending": 78.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 87,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "J. Gvardiol",
+      "fullName": "Jo\u0161ko Gvardiol",
+      "overall": 84,
+      "position": "LB",
+      "club": "Manchester City",
+      "nationality": "Croatia",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 71.0,
+        "passing": 75.0,
+        "dribbling": 78.0,
+        "defending": 84.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "X. Simons",
+      "fullName": "Xavier Quentin Shay Simons",
+      "overall": 84,
+      "position": "CAM",
+      "club": "Tottenham Hotspur",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 77.0,
+        "passing": 80.0,
+        "dribbling": 87.0,
+        "defending": 61.0,
+        "physical": 70.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Sancet",
+      "fullName": "Oihan Sancet Tirapu",
+      "overall": 84,
+      "position": "CAM",
+      "club": "Athletic Club",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 76.0,
+        "shooting": 83.0,
+        "passing": 80.0,
+        "dribbling": 85.0,
+        "defending": 70.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": "100+",
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Maddison",
+      "fullName": "James Daniel Maddison",
+      "overall": 84,
+      "position": "CM",
+      "club": "Tottenham Hotspur",
+      "nationality": "England",
+      "stats": {
+        "pace": 67.0,
+        "shooting": 81.0,
+        "passing": 86.0,
+        "dribbling": 85.0,
+        "defending": 58.0,
+        "physical": 64.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 83,
+        "passing": 12,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Davies",
+      "fullName": "Alphonso Boyle Davies",
+      "overall": 84,
+      "position": "LB",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Canada",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 66.0,
+        "passing": 78.0,
+        "dribbling": 85.0,
+        "defending": 74.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Vivian",
+      "fullName": "Daniel Vivian Moreno",
+      "overall": 84,
+      "position": "CB",
+      "club": "Athletic Club",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 79.0,
+        "shooting": 50.0,
+        "passing": 63.0,
+        "dribbling": 72.0,
+        "defending": 84.0,
+        "physical": 83.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Bernardo Silva",
+      "fullName": "Bernardo Mota Veiga de Carvalho e Silva",
+      "overall": 84,
+      "position": "CM",
+      "club": "Manchester City",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 61.0,
+        "shooting": 78.0,
+        "passing": 83.0,
+        "dribbling": 89.0,
+        "defending": 71.0,
+        "physical": 65.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 49,
+        "dribbling": 13,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "O. Marmoush",
+      "fullName": "Omar Khaled Mohamed Marmoush",
+      "overall": 84,
+      "position": "ST",
+      "club": "Manchester City",
+      "nationality": "Egypt",
+      "stats": {
+        "pace": 89.0,
+        "shooting": 85.0,
+        "passing": 76.0,
+        "dribbling": 86.0,
+        "defending": 34.0,
+        "physical": 71.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 16,
+        "passing": "100+",
+        "dribbling": 40,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Jo\u00e3o Cancelo",
+      "fullName": "Jo\u00e3o Pedro Cavaco Cancelo",
+      "overall": 84,
+      "position": "RB",
+      "club": "Al Hilal",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 83.0,
+        "shooting": 73.0,
+        "passing": 84.0,
+        "dribbling": 84.0,
+        "defending": 78.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 34,
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Diaby",
+      "fullName": "Moussa Diaby",
+      "overall": 84,
+      "position": "RM",
+      "club": "Al Ittihad",
+      "nationality": "France",
+      "stats": {
+        "pace": 95.0,
+        "shooting": 75.0,
+        "passing": 77.0,
+        "dribbling": 87.0,
+        "defending": 44.0,
+        "physical": 54.0
+      },
+      "rankings": {
+        "pace": 4,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "B. Pavard",
+      "fullName": "Benjamin Pavard",
+      "overall": 84,
+      "position": "CB",
+      "club": "Olympique de Marseille",
+      "nationality": "France",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 67.0,
+        "passing": 76.0,
+        "dribbling": 75.0,
+        "defending": 86.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "\u00c9der Milit\u00e3o",
+      "fullName": "\u00c9der Gabriel Milit\u00e3o",
+      "overall": 84,
+      "position": "CB",
+      "club": "Real Madrid",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 50.0,
+        "passing": 69.0,
+        "dribbling": 71.0,
+        "defending": 85.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Acerbi",
+      "fullName": "Francesco Acerbi",
+      "overall": 84,
+      "position": "CB",
+      "club": "Inter",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 57.0,
+        "shooting": 50.0,
+        "passing": 65.0,
+        "dribbling": 65.0,
+        "defending": 87.0,
+        "physical": 81.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 5,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Rafael Le\u00e3o",
+      "fullName": "Rafael Alexandre da Concei\u00e7\u00e3o Le\u00e3o",
+      "overall": 84,
+      "position": "LW",
+      "club": "AC Milan",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 78.0,
+        "passing": 80.0,
+        "dribbling": 86.0,
+        "defending": 28.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 40,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "E. Fern\u00e1ndez",
+      "fullName": "Enzo Jerem\u00edas Fern\u00e1ndez",
+      "overall": 84,
+      "position": "CM",
+      "club": "Chelsea",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 68.0,
+        "shooting": 75.0,
+        "passing": 85.0,
+        "dribbling": 81.0,
+        "defending": 73.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Lookman",
+      "fullName": "Ademola Olajade Alade Aylola Lookman",
+      "overall": 84,
+      "position": "ST",
+      "club": "Atalanta",
+      "nationality": "Nigeria",
+      "stats": {
+        "pace": 86.0,
+        "shooting": 84.0,
+        "passing": 73.0,
+        "dribbling": 88.0,
+        "defending": 32.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R\u00faben Neves",
+      "fullName": "R\u00faben Diogo da Silva Neves",
+      "overall": 84,
+      "position": "CDM",
+      "club": "Al Hilal",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 57.0,
+        "shooting": 75.0,
+        "passing": 87.0,
+        "dribbling": 77.0,
+        "defending": 77.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 7,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. de Vrij",
+      "fullName": "Stefan de Vrij",
+      "overall": 84,
+      "position": "CB",
+      "club": "Inter",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 62.0,
+        "shooting": 41.0,
+        "passing": 68.0,
+        "dribbling": 69.0,
+        "defending": 86.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 8,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Aleix Garc\u00eda",
+      "fullName": "Aleix Garc\u00eda Serrano",
+      "overall": 83,
+      "position": "CM",
+      "club": "Bayer 04 Leverkusen",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 65.0,
+        "shooting": 75.0,
+        "passing": 85.0,
+        "dribbling": 84.0,
+        "defending": 75.0,
+        "physical": 66.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Frimpong",
+      "fullName": "Jeremie Agyekum Frimpong",
+      "overall": 83,
+      "position": "RB",
+      "club": "Liverpool",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 62.0,
+        "passing": 74.0,
+        "dribbling": 84.0,
+        "defending": 72.0,
+        "physical": 63.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "L. Modri\u0107",
+      "fullName": "Luka Modri\u0107",
+      "overall": 83,
+      "position": "CM",
+      "club": "AC Milan",
+      "nationality": "Croatia",
+      "stats": {
+        "pace": 68.0,
+        "shooting": 74.0,
+        "passing": 86.0,
+        "dribbling": 86.0,
+        "defending": 70.0,
+        "physical": 62.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 12,
+        "dribbling": 40,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Matheus Cunha",
+      "fullName": "Matheus Santos Carneiro da Cunha",
+      "overall": 83,
+      "position": "CAM",
+      "club": "Manchester United",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 85.0,
+        "passing": 79.0,
+        "dribbling": 84.0,
+        "defending": 44.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 16,
+        "passing": "100+",
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "K. Coman",
+      "fullName": "Kingsley Junior Coman",
+      "overall": 83,
+      "position": "LM",
+      "club": "Al Nassr",
+      "nationality": "France",
+      "stats": {
+        "pace": 87.0,
+        "shooting": 75.0,
+        "passing": 79.0,
+        "dribbling": 87.0,
+        "defending": 30.0,
+        "physical": 61.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "G. Mancini",
+      "fullName": "Gianluca Mancini",
+      "overall": 83,
+      "position": "CB",
+      "club": "Roma",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 70.0,
+        "shooting": 50.0,
+        "passing": 57.0,
+        "dribbling": 64.0,
+        "defending": 85.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Palhinha",
+      "fullName": "Jo\u00e3o Maria Lobo Alves Palhinha Gon\u00e7alves",
+      "overall": 83,
+      "position": "CDM",
+      "club": "Tottenham Hotspur",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 56.0,
+        "shooting": 68.0,
+        "passing": 70.0,
+        "dribbling": 72.0,
+        "defending": 84.0,
+        "physical": 85.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": 41
+      }
+    },
+    {
+      "name": "A. Rrahmani",
+      "fullName": "Amir Kadri Rrahmani",
+      "overall": 83,
+      "position": "CB",
+      "club": "Napoli",
+      "nationality": "Kosovo",
+      "stats": {
+        "pace": 69.0,
+        "shooting": 51.0,
+        "passing": 60.0,
+        "dribbling": 63.0,
+        "defending": 84.0,
+        "physical": 78.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Iago Aspas",
+      "fullName": "Iago Aspas Juncal",
+      "overall": 83,
+      "position": "RW",
+      "club": "RC Celta",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 77.0,
+        "shooting": 84.0,
+        "passing": 80.0,
+        "dribbling": 84.0,
+        "defending": 35.0,
+        "physical": 62.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": 79,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "L. Openda",
+      "fullName": "Ikoma Lo\u00efs Openda",
+      "overall": 83,
+      "position": "ST",
+      "club": "Juventus",
+      "nationality": "Belgium",
+      "stats": {
+        "pace": 95.0,
+        "shooting": 81.0,
+        "passing": 69.0,
+        "dribbling": 81.0,
+        "defending": 31.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": 4,
+        "shooting": 83,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Milenkovi\u0107",
+      "fullName": "Nikola Milenkovi\u0107",
+      "overall": 83,
+      "position": "CB",
+      "club": "Nottingham Forest",
+      "nationality": "Serbia",
+      "stats": {
+        "pace": 57.0,
+        "shooting": 46.0,
+        "passing": 63.0,
+        "dribbling": 62.0,
+        "defending": 84.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": 20
+      }
+    },
+    {
+      "name": "E. Eze",
+      "fullName": "Eberechi Oluchi Eze",
+      "overall": 83,
+      "position": "CAM",
+      "club": "Arsenal",
+      "nationality": "England",
+      "stats": {
+        "pace": 74.0,
+        "shooting": 80.0,
+        "passing": 81.0,
+        "dribbling": 87.0,
+        "defending": 50.0,
+        "physical": 68.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 87,
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "I\u00f1aki Williams",
+      "fullName": "I\u00f1aki Williams Arthuer",
+      "overall": 83,
+      "position": "RM",
+      "club": "Athletic Club",
+      "nationality": "Ghana",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 81.0,
+        "passing": 74.0,
+        "dribbling": 80.0,
+        "defending": 45.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": 83,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 72
+      }
+    },
+    {
+      "name": "A. Dovbyk",
+      "fullName": "Artem Dovbyk\u0414\u043e\u0432\u0431\u0438\u043a \u0410\u0440\u0442\u0435\u043c \u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+      "overall": 83,
+      "position": "ST",
+      "club": "Roma",
+      "nationality": "Ukraine",
+      "stats": {
+        "pace": 83.0,
+        "shooting": 84.0,
+        "passing": 68.0,
+        "dribbling": 78.0,
+        "defending": 34.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Gim\u00e9nez",
+      "fullName": "Jos\u00e9 Mar\u00eda Gim\u00e9nez de Vargas",
+      "overall": 83,
+      "position": "CB",
+      "club": "Atl\u00e9tico Madrid",
+      "nationality": "Uruguay",
+      "stats": {
+        "pace": 73.0,
+        "shooting": 46.0,
+        "passing": 60.0,
+        "dribbling": 62.0,
+        "defending": 85.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Szoboszlai",
+      "fullName": "Dominik Szoboszlai",
+      "overall": 83,
+      "position": "CAM",
+      "club": "Liverpool",
+      "nationality": "Hungary",
+      "stats": {
+        "pace": 79.0,
+        "shooting": 82.0,
+        "passing": 84.0,
+        "dribbling": 82.0,
+        "defending": 67.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": 34,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Ayoze",
+      "fullName": "Ayoze P\u00e9rez Guti\u00e9rrez",
+      "overall": 83,
+      "position": "ST",
+      "club": "Villarreal CF",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 86.0,
+        "shooting": 83.0,
+        "passing": 80.0,
+        "dribbling": 83.0,
+        "defending": 59.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 34,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Ak\u00e9",
+      "fullName": "Nathan Benjamin Ak\u00e9",
+      "overall": 83,
+      "position": "CB",
+      "club": "Manchester City",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 53.0,
+        "passing": 72.0,
+        "dribbling": 75.0,
+        "defending": 84.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "P. Hincapi\u00e9",
+      "fullName": "Piero Mart\u00edn Hincapi\u00e9 Reyna",
+      "overall": 83,
+      "position": "CB",
+      "club": "Arsenal",
+      "nationality": "Ecuador",
+      "stats": {
+        "pace": 84.0,
+        "shooting": 41.0,
+        "passing": 65.0,
+        "dribbling": 72.0,
+        "defending": 84.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Vlahovi\u0107",
+      "fullName": "Du\u0161an Vlahovi\u0107\u0414\u0443\u0448\u0430\u043d \u0412\u043b\u0430\u0445\u043e\u0432\u0438\u045b",
+      "overall": 82,
+      "position": "ST",
+      "club": "Juventus",
+      "nationality": "Serbia",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 84.0,
+        "passing": 69.0,
+        "dribbling": 77.0,
+        "defending": 29.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. S\u00e1nchez",
+      "fullName": "Davinson S\u00e1nchez Mina",
+      "overall": 82,
+      "position": "CB",
+      "club": "Galatasaray SK",
+      "nationality": "Colombia",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 58.0,
+        "passing": 63.0,
+        "dribbling": 73.0,
+        "defending": 82.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 61,
+        "physical": 4
+      }
+    },
+    {
+      "name": "F. Nmecha",
+      "fullName": "Felix Kalu Nmecha",
+      "overall": 82,
+      "position": "CDM",
+      "club": "Borussia Dortmund",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 74.0,
+        "passing": 73.0,
+        "dribbling": 81.0,
+        "defending": 80.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "A. Budimir",
+      "fullName": "Ante Budimir",
+      "overall": 82,
+      "position": "ST",
+      "club": "CA Osasuna",
+      "nationality": "Croatia",
+      "stats": {
+        "pace": 59.0,
+        "shooting": 84.0,
+        "passing": 63.0,
+        "dribbling": 76.0,
+        "defending": 35.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Romagnoli",
+      "fullName": "Alessio Romagnoli",
+      "overall": 82,
+      "position": "CB",
+      "club": "Lazio",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 64.0,
+        "shooting": 40.0,
+        "passing": 55.0,
+        "dribbling": 69.0,
+        "defending": 84.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "E. Konsa",
+      "fullName": "Ezri Konsa Ngoyo",
+      "overall": 82,
+      "position": "CB",
+      "club": "Aston Villa",
+      "nationality": "England",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 53.0,
+        "passing": 71.0,
+        "dribbling": 75.0,
+        "defending": 84.0,
+        "physical": 78.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Mateta",
+      "fullName": "Jean-Philippe Mateta",
+      "overall": 82,
+      "position": "ST",
+      "club": "Crystal Palace",
+      "nationality": "France",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 84.0,
+        "passing": 70.0,
+        "dribbling": 77.0,
+        "defending": 41.0,
+        "physical": 81.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. Ginter",
+      "fullName": "Matthias Lukas Ginter",
+      "overall": 82,
+      "position": "CB",
+      "club": "SC Freiburg",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 55.0,
+        "shooting": 58.0,
+        "passing": 71.0,
+        "dribbling": 66.0,
+        "defending": 85.0,
+        "physical": 75.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 17,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Parejo",
+      "fullName": "Daniel Parejo Mu\u00f1oz",
+      "overall": 82,
+      "position": "CM",
+      "club": "Villarreal CF",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 39.0,
+        "shooting": 80.0,
+        "passing": 87.0,
+        "dribbling": 78.0,
+        "defending": 74.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 7,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Joelinton",
+      "fullName": "Joelinton Cassio Apolin\u00e1rio de Lira",
+      "overall": 82,
+      "position": "CM",
+      "club": "Newcastle United",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 74.0,
+        "shooting": 73.0,
+        "passing": 77.0,
+        "dribbling": 81.0,
+        "defending": 82.0,
+        "physical": 90.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 61,
+        "physical": 2
+      }
+    },
+    {
+      "name": "Pau Cubars\u00ed",
+      "fullName": "Pau Cubars\u00ed Paredes",
+      "overall": 82,
+      "position": "CB",
+      "club": "FC Barcelona",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 70.0,
+        "shooting": 42.0,
+        "passing": 66.0,
+        "dribbling": 77.0,
+        "defending": 84.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Buongiorno",
+      "fullName": "Alessandro Buongiorno",
+      "overall": 82,
+      "position": "CB",
+      "club": "Napoli",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 69.0,
+        "shooting": 45.0,
+        "passing": 67.0,
+        "dribbling": 65.0,
+        "defending": 84.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "\u00c1. Di Mar\u00eda",
+      "fullName": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez",
+      "overall": 82,
+      "position": "RW",
+      "club": "Rosario Central",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 73.0,
+        "shooting": 80.0,
+        "passing": 85.0,
+        "dribbling": 85.0,
+        "defending": 43.0,
+        "physical": 62.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. G\u00f6tze",
+      "fullName": "Mario G\u00f6tze",
+      "overall": 82,
+      "position": "CM",
+      "club": "Eintracht Frankfurt",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 60.0,
+        "shooting": 75.0,
+        "passing": 85.0,
+        "dribbling": 85.0,
+        "defending": 56.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 51,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "W. Anton",
+      "fullName": "Waldemar Anton\u0420\u0438\u043f\u0446\u043e\u0432-\u0410\u043d\u0442\u043e\u043d \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+      "overall": 82,
+      "position": "CB",
+      "club": "Borussia Dortmund",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 69.0,
+        "shooting": 47.0,
+        "passing": 67.0,
+        "dribbling": 66.0,
+        "defending": 84.0,
+        "physical": 84.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": 72
+      }
+    },
+    {
+      "name": "J. Stones",
+      "fullName": "John Stones",
+      "overall": 82,
+      "position": "CB",
+      "club": "Manchester City",
+      "nationality": "England",
+      "stats": {
+        "pace": 64.0,
+        "shooting": 58.0,
+        "passing": 74.0,
+        "dribbling": 75.0,
+        "defending": 84.0,
+        "physical": 72.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Sch\u00e4r",
+      "fullName": "Fabian Lukas Sch\u00e4r",
+      "overall": 82,
+      "position": "CB",
+      "club": "Newcastle United",
+      "nationality": "Switzerland",
+      "stats": {
+        "pace": 51.0,
+        "shooting": 68.0,
+        "passing": 76.0,
+        "dribbling": 73.0,
+        "defending": 84.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": 24,
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "T. Kleindienst",
+      "fullName": "Tim Kleindienst",
+      "overall": 81,
+      "position": "ST",
+      "club": "Borussia M\u00f6nchengladbach",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 67.0,
+        "shooting": 82.0,
+        "passing": 62.0,
+        "dribbling": 70.0,
+        "defending": 45.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 49,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "Anderson Talisca",
+      "fullName": "Anderson Souza Concei\u00e7\u00e3o",
+      "overall": 81,
+      "position": "CAM",
+      "club": "Fenerbah\u00e7e SK",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 76.0,
+        "shooting": 86.0,
+        "passing": 80.0,
+        "dribbling": 81.0,
+        "defending": 45.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 12,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "K. Adeyemi",
+      "fullName": "Karim-David Adeyemi",
+      "overall": 81,
+      "position": "RM",
+      "club": "Borussia Dortmund",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 96.0,
+        "shooting": 76.0,
+        "passing": 72.0,
+        "dribbling": 82.0,
+        "defending": 36.0,
+        "physical": 69.0
+      },
+      "rankings": {
+        "pace": 2,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Galeno",
+      "fullName": "Wenderson Rodrigues do Nascimento Galeno",
+      "overall": 81,
+      "position": "LM",
+      "club": "Al Ahli SFC",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 75.0,
+        "passing": 71.0,
+        "dribbling": 83.0,
+        "defending": 45.0,
+        "physical": 69.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Elanga",
+      "fullName": "Anthony David Junior Elanga",
+      "overall": 81,
+      "position": "RW",
+      "club": "Newcastle United",
+      "nationality": "Sweden",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 72.0,
+        "passing": 76.0,
+        "dribbling": 82.0,
+        "defending": 39.0,
+        "physical": 70.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R. Cherki",
+      "fullName": "Mathis Rayan Cherki",
+      "overall": 81,
+      "position": "RW",
+      "club": "Manchester City",
+      "nationality": "France",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 75.0,
+        "passing": 80.0,
+        "dribbling": 88.0,
+        "defending": 21.0,
+        "physical": 65.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "O. Diomande",
+      "fullName": "Ousmane Diomande",
+      "overall": 80,
+      "position": "CB",
+      "club": "Sporting CP",
+      "nationality": "C\u00f4te d'Ivoire",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 26.0,
+        "passing": 51.0,
+        "dribbling": 70.0,
+        "defending": 79.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "J. Doku",
+      "fullName": "J\u00e9r\u00e9my Doku",
+      "overall": 80,
+      "position": "LW",
+      "club": "Manchester City",
+      "nationality": "Belgium",
+      "stats": {
+        "pace": 91.0,
+        "shooting": 71.0,
+        "passing": 72.0,
+        "dribbling": 87.0,
+        "defending": 32.0,
+        "physical": 68.0
+      },
+      "rankings": {
+        "pace": 65,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "R. Guerreiro",
+      "fullName": "Rapha\u00ebl Adelino Jos\u00e9 Guerreiro",
+      "overall": 80,
+      "position": "LB",
+      "club": "FC Bayern M\u00fcnchen",
+      "nationality": "Portugal",
+      "stats": {
+        "pace": 69.0,
+        "shooting": 78.0,
+        "passing": 85.0,
+        "dribbling": 88.0,
+        "defending": 74.0,
+        "physical": 54.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": 15,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "F. Kessi\u00e9",
+      "fullName": "Franck Yannick Kessi\u00e9",
+      "overall": 80,
+      "position": "CDM",
+      "club": "Al Ahli SFC",
+      "nationality": "C\u00f4te d'Ivoire",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 77.0,
+        "passing": 73.0,
+        "dribbling": 78.0,
+        "defending": 78.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "B. Y\u0131lmaz",
+      "fullName": "Bar\u0131\u015f Alper Y\u0131lmaz",
+      "overall": 80,
+      "position": "LM",
+      "club": "Galatasaray SK",
+      "nationality": "T\u00fcrkiye",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 77.0,
+        "passing": 72.0,
+        "dribbling": 79.0,
+        "defending": 69.0,
+        "physical": 90.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 2
+      }
+    },
+    {
+      "name": "J. Sancho",
+      "fullName": "Jadon Malik Sancho",
+      "overall": 80,
+      "position": "LM",
+      "club": "Aston Villa",
+      "nationality": "England",
+      "stats": {
+        "pace": 79.0,
+        "shooting": 73.0,
+        "passing": 77.0,
+        "dribbling": 87.0,
+        "defending": 35.0,
+        "physical": 58.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": 22,
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Maeda",
+      "fullName": "Daizen Maeda\u524d\u7530 \u5927\u7136",
+      "overall": 79,
+      "position": "LW",
+      "club": "Celtic",
+      "nationality": "Japan",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 79.0,
+        "passing": 70.0,
+        "dribbling": 76.0,
+        "defending": 65.0,
+        "physical": 79.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Ra\u021biu",
+      "fullName": "Andrei Florin Ra\u021biu",
+      "overall": 79,
+      "position": "RB",
+      "club": "Rayo Vallecano",
+      "nationality": "Romania",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 60.0,
+        "passing": 74.0,
+        "dribbling": 79.0,
+        "defending": 74.0,
+        "physical": 71.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. Steijn",
+      "fullName": "Sem Steijn",
+      "overall": 78,
+      "position": "CAM",
+      "club": "Feyenoord",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 66.0,
+        "shooting": 84.0,
+        "passing": 74.0,
+        "dribbling": 77.0,
+        "defending": 43.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": 20,
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "C. Bassey",
+      "fullName": "Calvin Bassey Ughelumba",
+      "overall": 78,
+      "position": "CB",
+      "club": "Fulham FC",
+      "nationality": "Nigeria",
+      "stats": {
+        "pace": 81.0,
+        "shooting": 44.0,
+        "passing": 63.0,
+        "dribbling": 68.0,
+        "defending": 77.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "W. Weghorst",
+      "fullName": "Wout Fran\u00e7ois Maria Weghorst",
+      "overall": 78,
+      "position": "ST",
+      "club": "Ajax",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 54.0,
+        "shooting": 78.0,
+        "passing": 62.0,
+        "dribbling": 68.0,
+        "defending": 57.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "Y. Minteh",
+      "fullName": "Yankuba Minteh",
+      "overall": 77,
+      "position": "RM",
+      "club": "Brighton & Hove Albion",
+      "nationality": "Gambia",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 67.0,
+        "passing": 66.0,
+        "dribbling": 81.0,
+        "defending": 55.0,
+        "physical": 57.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "V. Janssen",
+      "fullName": "Vincent Petrus Anna Sebastiaan Janssen",
+      "overall": 77,
+      "position": "ST",
+      "club": "Royal Antwerp FC",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 68.0,
+        "shooting": 76.0,
+        "passing": 70.0,
+        "dribbling": 72.0,
+        "defending": 48.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "D. Blind",
+      "fullName": "Daley Blind",
+      "overall": 77,
+      "position": "CB",
+      "club": "Girona FC",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 36.0,
+        "shooting": 62.0,
+        "passing": 85.0,
+        "dribbling": 76.0,
+        "defending": 80.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": 18,
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "P. Ciss",
+      "fullName": "Path\u00e9 Isma\u00ebl Ciss",
+      "overall": 77,
+      "position": "CDM",
+      "club": "Rayo Vallecano",
+      "nationality": "Senegal",
+      "stats": {
+        "pace": 63.0,
+        "shooting": 57.0,
+        "passing": 64.0,
+        "dribbling": 65.0,
+        "defending": 76.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "M. Bombito",
+      "fullName": "Mo\u00efse Bombito Lumpungu",
+      "overall": 76,
+      "position": "CB",
+      "club": "OGC Nice",
+      "nationality": "Canada",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 49.0,
+        "passing": 58.0,
+        "dribbling": 65.0,
+        "defending": 75.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "J. Portillo",
+      "fullName": "Juan Carlos Portillo",
+      "overall": 76,
+      "position": "CB",
+      "club": "River Plate",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 79.0,
+        "shooting": 57.0,
+        "passing": 66.0,
+        "dribbling": 70.0,
+        "defending": 73.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "B. Osayi-Samuel",
+      "fullName": "Bright Osayi-Samuel",
+      "overall": 76,
+      "position": "RB",
+      "club": "Birmingham City",
+      "nationality": "Nigeria",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 58.0,
+        "passing": 63.0,
+        "dribbling": 79.0,
+        "defending": 69.0,
+        "physical": 80.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "H. Moukoudi",
+      "fullName": "Harold Desty Moukoudi",
+      "overall": 76,
+      "position": "CB",
+      "club": "AEK Athens",
+      "nationality": "Cameroon",
+      "stats": {
+        "pace": 49.0,
+        "shooting": 35.0,
+        "passing": 56.0,
+        "dribbling": 58.0,
+        "defending": 75.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "Adama Traor\u00e9",
+      "fullName": "Adama Traor\u00e9 Diarra",
+      "overall": 76,
+      "position": "RM",
+      "club": "Fulham FC",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 65.0,
+        "passing": 67.0,
+        "dribbling": 81.0,
+        "defending": 37.0,
+        "physical": 82.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. James",
+      "fullName": "Daniel Owen James",
+      "overall": 76,
+      "position": "RM",
+      "club": "Leeds United",
+      "nationality": "Wales",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 71.0,
+        "passing": 68.0,
+        "dribbling": 76.0,
+        "defending": 50.0,
+        "physical": 68.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "D. Man",
+      "fullName": "Dennis Man",
+      "overall": 76,
+      "position": "RW",
+      "club": "PSV",
+      "nationality": "Romania",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 74.0,
+        "passing": 70.0,
+        "dribbling": 77.0,
+        "defending": 45.0,
+        "physical": 71.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "T. Chor\u00fd",
+      "fullName": "Tom\u00e1\u0161 Chor\u00fd",
+      "overall": 75,
+      "position": "ST",
+      "club": "SK Slavia Praha",
+      "nationality": "Czechia",
+      "stats": {
+        "pace": 57.0,
+        "shooting": 75.0,
+        "passing": 60.0,
+        "dribbling": 64.0,
+        "defending": 32.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "J. Bahoya",
+      "fullName": "Jean-Matt\u00e9o Bahoya N\u00e9goce",
+      "overall": 75,
+      "position": "LM",
+      "club": "Eintracht Frankfurt",
+      "nationality": "France",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 67.0,
+        "passing": 67.0,
+        "dribbling": 76.0,
+        "defending": 46.0,
+        "physical": 59.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "L. Adv\u00edncula",
+      "fullName": "Luis Jan Piers Adv\u00edncula Castrill\u00f3n",
+      "overall": 75,
+      "position": "RB",
+      "club": "Boca Juniors",
+      "nationality": "Peru",
+      "stats": {
+        "pace": 92.0,
+        "shooting": 69.0,
+        "passing": 70.0,
+        "dribbling": 74.0,
+        "defending": 68.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": 34,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "F. Baschirotto",
+      "fullName": "Federico Baschirotto",
+      "overall": 75,
+      "position": "CB",
+      "club": "Cremonese",
+      "nationality": "Italy",
+      "stats": {
+        "pace": 69.0,
+        "shooting": 53.0,
+        "passing": 60.0,
+        "dribbling": 57.0,
+        "defending": 75.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "C. Izquierdoz",
+      "fullName": "Carlos Roberto Izquierdoz",
+      "overall": 74,
+      "position": "CB",
+      "club": "Lan\u00fas",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 41.0,
+        "shooting": 53.0,
+        "passing": 52.0,
+        "dribbling": 53.0,
+        "defending": 73.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "M. van Ewijk",
+      "fullName": "Milan Fabrizio van Ewijk",
+      "overall": 74,
+      "position": "RB",
+      "club": "Coventry City",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 58.0,
+        "passing": 66.0,
+        "dribbling": 70.0,
+        "defending": 67.0,
+        "physical": 71.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "C. Kipr\u00e9",
+      "fullName": "C\u00e9dric Kipr\u00e9",
+      "overall": 74,
+      "position": "CB",
+      "club": "Ipswich Town",
+      "nationality": "C\u00f4te d'Ivoire",
+      "stats": {
+        "pace": 68.0,
+        "shooting": 35.0,
+        "passing": 49.0,
+        "dribbling": 55.0,
+        "defending": 72.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "Gabriel Silva",
+      "fullName": "Gabriel Silva Vieira",
+      "overall": 74,
+      "position": "LW",
+      "club": "Santa Clara",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 96.0,
+        "shooting": 69.0,
+        "passing": 67.0,
+        "dribbling": 74.0,
+        "defending": 29.0,
+        "physical": 61.0
+      },
+      "rankings": {
+        "pace": 2,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. N\u00fa\u00f1ez",
+      "fullName": "Santiago Misael N\u00fa\u00f1ez",
+      "overall": 73,
+      "position": "CB",
+      "club": "Estudiantes de La Plata",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 61.0,
+        "shooting": 29.0,
+        "passing": 49.0,
+        "dribbling": 50.0,
+        "defending": 72.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "J. Laurent",
+      "fullName": "Joshua Ishaele Jacob-Heron Hunt-Laurent",
+      "overall": 73,
+      "position": "CDM",
+      "club": "Burnley",
+      "nationality": "England",
+      "stats": {
+        "pace": 78.0,
+        "shooting": 61.0,
+        "passing": 64.0,
+        "dribbling": 70.0,
+        "defending": 71.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "O. Burke",
+      "fullName": "Oliver Jasen Burke",
+      "overall": 73,
+      "position": "ST",
+      "club": "1. FC Union Berlin",
+      "nationality": "Scotland",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 70.0,
+        "passing": 64.0,
+        "dribbling": 67.0,
+        "defending": 41.0,
+        "physical": 74.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "E. G\u00f3mez",
+      "fullName": "El\u00edas Jos\u00e9 G\u00f3mez",
+      "overall": 73,
+      "position": "LB",
+      "club": "V\u00e9lez Sarsfield",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 83.0,
+        "shooting": 63.0,
+        "passing": 70.0,
+        "dribbling": 75.0,
+        "defending": 64.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "Z. Romero",
+      "fullName": "Zaid Abner Romero",
+      "overall": 72,
+      "position": "CB",
+      "club": "Club Brugge KV",
+      "nationality": "Argentina",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 30.0,
+        "passing": 51.0,
+        "dribbling": 63.0,
+        "defending": 70.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "Igor Madinha",
+      "fullName": "Igor Paolo Madinha Eust\u00e1quio",
+      "overall": 72,
+      "position": "RM",
+      "club": "S\u00e3o Paulo",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 61.0,
+        "passing": 63.0,
+        "dribbling": 73.0,
+        "defending": 27.0,
+        "physical": 58.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Zine",
+      "fullName": "Ambrosini Ant\u00f3nio Caba\u00e7a Salvador",
+      "overall": 72,
+      "position": "ST",
+      "club": "AEK Athens",
+      "nationality": "Angola",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 67.0,
+        "passing": 59.0,
+        "dribbling": 73.0,
+        "defending": 35.0,
+        "physical": 68.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Klauss",
+      "fullName": "Jo\u00e3o Klauss de Mello",
+      "overall": 72,
+      "position": "ST",
+      "club": "St. Louis CITY SC",
+      "nationality": "Brazil",
+      "stats": {
+        "pace": 64.0,
+        "shooting": 73.0,
+        "passing": 62.0,
+        "dribbling": 66.0,
+        "defending": 36.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "A. M\u00e9ndez",
+      "fullName": "Armando Jes\u00fas M\u00e9ndez Alcorta",
+      "overall": 71,
+      "position": "RB",
+      "club": "Lan\u00fas",
+      "nationality": "Uruguay",
+      "stats": {
+        "pace": 80.0,
+        "shooting": 37.0,
+        "passing": 52.0,
+        "dribbling": 60.0,
+        "defending": 66.0,
+        "physical": 87.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 11
+      }
+    },
+    {
+      "name": "M. Falc\u00f3n",
+      "fullName": "Maximiliano Joel Falc\u00f3n Picart",
+      "overall": 70,
+      "position": "CB",
+      "club": "Inter Miami",
+      "nationality": "Uruguay",
+      "stats": {
+        "pace": 75.0,
+        "shooting": 42.0,
+        "passing": 34.0,
+        "dribbling": 39.0,
+        "defending": 67.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "M. Frey",
+      "fullName": "Michael Frey",
+      "overall": 70,
+      "position": "ST",
+      "club": "Queens Park Rangers",
+      "nationality": "Switzerland",
+      "stats": {
+        "pace": 59.0,
+        "shooting": 71.0,
+        "passing": 61.0,
+        "dribbling": 60.0,
+        "defending": 41.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "E. Poku",
+      "fullName": "Ernest Poku",
+      "overall": 70,
+      "position": "RM",
+      "club": "Bayer 04 Leverkusen",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 60.0,
+        "passing": 59.0,
+        "dribbling": 72.0,
+        "defending": 32.0,
+        "physical": 60.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "G. Holtmann",
+      "fullName": "Gerrit Stephan Barba Holtmann",
+      "overall": 70,
+      "position": "LM",
+      "club": "VfL Bochum 1848",
+      "nationality": "Philippines",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 64.0,
+        "passing": 62.0,
+        "dribbling": 67.0,
+        "defending": 56.0,
+        "physical": 59.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. Bangura",
+      "fullName": "Alex Bangura",
+      "overall": 69,
+      "position": "LB",
+      "club": "Middlesbrough",
+      "nationality": "Sierra Leone",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 37.0,
+        "passing": 55.0,
+        "dribbling": 68.0,
+        "defending": 60.0,
+        "physical": 76.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "M. van Bergen",
+      "fullName": "Mitchell van Bergen",
+      "overall": 69,
+      "position": "RM",
+      "club": "Sparta Rotterdam",
+      "nationality": "Netherlands",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 61.0,
+        "passing": 60.0,
+        "dribbling": 70.0,
+        "defending": 27.0,
+        "physical": 51.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "S. Conteh",
+      "fullName": "Sirlord Calvin Conteh",
+      "overall": 69,
+      "position": "ST",
+      "club": "1. FC Heidenheim 1846",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 95.0,
+        "shooting": 64.0,
+        "passing": 56.0,
+        "dribbling": 70.0,
+        "defending": 37.0,
+        "physical": 63.0
+      },
+      "rankings": {
+        "pace": 4,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Fali",
+      "fullName": "Rafael Jim\u00e9nez Jarque",
+      "overall": 69,
+      "position": "CB",
+      "club": "C\u00e1diz CF",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 43.0,
+        "shooting": 53.0,
+        "passing": 64.0,
+        "dribbling": 55.0,
+        "defending": 65.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "I. Stoica",
+      "fullName": "Ionu\u021b Stoica",
+      "overall": 68,
+      "position": "CB",
+      "club": "FC Hermannstadt",
+      "nationality": "Romania",
+      "stats": {
+        "pace": 40.0,
+        "shooting": 23.0,
+        "passing": 38.0,
+        "dribbling": 42.0,
+        "defending": 66.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "B. Kaltak",
+      "fullName": "Brian Kaltak",
+      "overall": 68,
+      "position": "CB",
+      "club": "Perth Glory",
+      "nationality": "Vanuatu",
+      "stats": {
+        "pace": 82.0,
+        "shooting": 47.0,
+        "passing": 55.0,
+        "dribbling": 58.0,
+        "defending": 64.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "D. Arzani",
+      "fullName": "Daniel Arzani\u062f\u0646\u06cc\u0644 \u0627\u0631\u0632\u0627\u0646\u06cc",
+      "overall": 68,
+      "position": "RM",
+      "club": "Ferencv\u00e1rosi Torna Club",
+      "nationality": "Australia",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 60.0,
+        "passing": 60.0,
+        "dribbling": 73.0,
+        "defending": 34.0,
+        "physical": 73.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "A. G\u00fcrleyen",
+      "fullName": "Ahmet Ege G\u00fcrleyen",
+      "overall": 68,
+      "position": "CB",
+      "club": "FC Hansa Rostock",
+      "nationality": "Germany",
+      "stats": {
+        "pace": 72.0,
+        "shooting": 37.0,
+        "passing": 44.0,
+        "dribbling": 41.0,
+        "defending": 65.0,
+        "physical": 88.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 4
+      }
+    },
+    {
+      "name": "M. Al Harbi",
+      "fullName": "Moteb Saad Al Harbi\u0645\u062a\u0639\u0628 \u0633\u0639\u062f \u0627\u0644\u062d\u0631\u0628\u064a",
+      "overall": 67,
+      "position": "LB",
+      "club": "Al Hilal",
+      "nationality": "Saudi Arabia",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 54.0,
+        "passing": 62.0,
+        "dribbling": 67.0,
+        "defending": 56.0,
+        "physical": 60.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "Alberto Jim\u00e9nez",
+      "fullName": "Alberto Jim\u00e9nez Ben\u00edtez",
+      "overall": 67,
+      "position": "CB",
+      "club": "CD Castell\u00f3n",
+      "nationality": "Spain",
+      "stats": {
+        "pace": 51.0,
+        "shooting": 56.0,
+        "passing": 58.0,
+        "dribbling": 58.0,
+        "defending": 62.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "E. Kara",
+      "fullName": "Ercan Kara",
+      "overall": 67,
+      "position": "ST",
+      "club": "SK Rapid",
+      "nationality": "Austria",
+      "stats": {
+        "pace": 70.0,
+        "shooting": 68.0,
+        "passing": 52.0,
+        "dribbling": 60.0,
+        "defending": 27.0,
+        "physical": 86.0
+      },
+      "rankings": {
+        "pace": "100+",
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": 20
+      }
+    },
+    {
+      "name": "R. Jones",
+      "fullName": "Ricky-Jade Jones",
+      "overall": 65,
+      "position": "ST",
+      "club": "FC St. Pauli",
+      "nationality": "England",
+      "stats": {
+        "pace": 93.0,
+        "shooting": 62.0,
+        "passing": 56.0,
+        "dribbling": 65.0,
+        "defending": 28.0,
+        "physical": 67.0
+      },
+      "rankings": {
+        "pace": 21,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    },
+    {
+      "name": "N. Velupillay",
+      "fullName": "Nishan Matthew Velupillay",
+      "overall": 65,
+      "position": "LM",
+      "club": "Melbourne Victory",
+      "nationality": "Australia",
+      "stats": {
+        "pace": 94.0,
+        "shooting": 56.0,
+        "passing": 55.0,
+        "dribbling": 70.0,
+        "defending": 35.0,
+        "physical": 57.0
+      },
+      "rankings": {
+        "pace": 9,
+        "shooting": "100+",
+        "passing": "100+",
+        "dribbling": "100+",
+        "defending": "100+",
+        "physical": "100+"
+      }
+    }
+  ]
+}
